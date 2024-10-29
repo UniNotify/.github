@@ -1,35 +1,33 @@
+# UniNotify
 
-<div align="center">
-  <a href="https://github.com/UniNotify/notify-frontend/stargazers">
-    <img src="https://img.shields.io/github/stars/UniNotify/notify-frontend?style=social" alt="Stars">
-  </a>
-  <a href="https://github.com/UniNotify/notify-frontend/network/members">
-    <img src="https://img.shields.io/github/forks/UniNotify/notify-frontend" alt="Forks">
-  </a>
-  <a href="https://github.com/UniNotify/notify-frontend/subscription">
-    <img src="https://img.shields.io/github/watchers/UniNotify/notify-frontend?style=social" alt="Watchers">
-  </a>
-  <a href="https://github.com/UniNotify/notify-frontend/issues">
-    <img src="https://img.shields.io/github/issues/UniNotify/notify-frontend" alt="Issues">
-  </a>
-  <a href="https://github.com/UniNotify/notify-frontend/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/UniNotify/notify-frontend" alt="Contributors">
-  </a>
-</div>
+Welcome to **UniNotify**! We are a collaborative organization dedicated to building a suite of tools designed to **[briefly describe the purpose/mission of UniNotify, e.g., enhance notification and communication systems for educational institutions]**.
 
+### License
 
-### 📖 About
-**UniNotify** is a centralized notification platform designed to help users manage their notifications seamlessly across various services. With a focus on user experience, our platform provides easy access to critical alerts, ensuring you never miss an important update.
+All projects within this organization are licensed under the **[License Name, e.g., MIT License]** unless otherwise noted. This licensing provides:
+- **Permission** for anyone to use, copy, and modify the software, with certain conditions.
+- **Attribution** to the original authors.
+- **No warranty**, as the software is provided “as-is.”
 
-### 🔍 What It Does
-- **Centralized Notifications:** Aggregates notifications from multiple sources like email, social media, and messaging apps into one dashboard.
-- **Customizable Alerts:** Users can prioritize and manage notifications according to their preferences.
-- **Real-Time Updates:** Receive notifications instantly via web and mobile applications.
-- **Data Insights:** Analyze notification patterns to improve user engagement and efficiency.
+For complete terms, please see our [LICENSE](LICENSE) file.
 
-### 🤝 Contributing
-We welcome contributions! Please check our [contributing guidelines](../) for more information on how to get started.
+### Code of Conduct
 
-### 📄 License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+Our community strives to create a respectful, inclusive, and open environment. We ask all members, contributors, and maintainers to adhere to our **Code of Conduct** to ensure positive interactions.
 
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating. Violations may lead to disciplinary action, including removal from the community.
+
+### Contributing
+
+We welcome contributions from everyone! To get started:
+1. Review our [Contributing Guidelines](CONTRIBUTING.md).
+2. Familiarize yourself with our [Code of Conduct](CODE_OF_CONDUCT.md).
+3. [Fork](https://github.com/organization-name/repository-name/fork) the repository you wish to contribute to.
+4. Create a new branch to work on your changes.
+5. Submit a pull request detailing your work.
+
+We look forward to your insights and improvements!
+
+### Contact
+
+For questions or collaboration inquiries, please open an issue on GitHub.
